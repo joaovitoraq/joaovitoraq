@@ -15,7 +15,7 @@
   <img align="center" alt="jv-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jv-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="jv-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="jv-pic" height="150" style="border-radius:50px;" src="blob:https://discord.com/c9a1bed2-0893-44e4-b9ec-5ca9a9fc58e9">
+   <img align="right" alt="jv-pic" height="150" style="border-radius: 50%;" src="https://scontent-for1-1.cdninstagram.com/v/t51.2885-19/301270793_796881634998501_1101760707095050282_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-for1-1.cdninstagram.com&_nc_cat=109&_nc_ohc=Ej_XEptOWVgAX9dz5VK&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT_WVk4dth-PdkO2AD2-dDBlrVkdd7iib6uSlAuV59Aqkg&oe=63358CC5&_nc_sid=8fd12b">
 </div>
   
   <div> 
