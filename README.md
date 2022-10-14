@@ -13,7 +13,7 @@
   <img align="center" alt="jv-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jv-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="jv-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="right" alt="jv-pic" height="150" style="border-radius: 50%;" src="www.instagram.com/p/ChAaWs4OXlaLBYQuBfu5seExjfOHwxWqAXjo9I0/">
+   <img src="www.instagram.com/p/ChAaWs4OXlaLBYQuBfu5seExjfOHwxWqAXjo9I0/" alt="jv-pic" align="right" height="150" style="border-radius: 50%;">
 </div>
   
   <div> 
