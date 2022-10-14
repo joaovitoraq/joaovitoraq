@@ -13,7 +13,7 @@
   <img align="center" alt="jv-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jv-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="jv-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="right" alt="jv-pic" height="150" style="border-radius: 50%;" src="https://scontent-for1-1.cdninstagram.com/v/t51.2885-19/301270793_796881634998501_1101760707095050282_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-for1-1.cdninstagram.com&_nc_cat=109&_nc_ohc=Ej_XEptOWVgAX9dz5VK&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT_WVk4dth-PdkO2AD2-dDBlrVkdd7iib6uSlAuV59Aqkg&oe=63358CC5&_nc_sid=8fd12b">
+   <img align="right" alt="jv-pic" height="150" style="border-radius: 50%;" src="https://www.instagram.com/p/ChAaWs4OXlaLBYQuBfu5seExjfOHwxWqAXjo9I0/">
 </div>
   
   <div> 
