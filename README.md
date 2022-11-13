@@ -1,6 +1,5 @@
 Olá Mundo🌍, eu sou o João Vitor!
-- 📚 Estou cursando graduação em ADS
-- 📫 Contate-me no email: joaovitordeoliveiraaquino@gmail.com
+- 📚 Estou cursando ADS
 
 <div align="center">
  <a href="https://github.com/joaovitoraq">
