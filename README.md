@@ -1,6 +1,6 @@
 <h2>Hello World🌍, I'm João Vitor!</h2>
 - 💻 I'm a programming student <br>
-- 📚 I'm currently doing of ADS college <br>
+- 📚 I'm currently doing of ADS college <br><br>
 
 <div align="center">
  <a href="https://github.com/joaovitoraq">
