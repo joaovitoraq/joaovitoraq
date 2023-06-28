@@ -1,6 +1,6 @@
 Hello World🌍, I'm João Vitor!
 - 💻 I'm a programming student
-- 📚 I do ADS college
+- 📚 I'm currently doing of ADS college
 
 <div align="center">
  <a href="https://github.com/joaovitoraq">
