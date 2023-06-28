@@ -1,5 +1,5 @@
-<h1>Hello World🌍, I'm João Vitor!</h1>
-- 💻 I'm a programming student
+<h2>Hello World🌍, I'm João Vitor!</h2>
+- 💻 I'm a programming student <br>
 - 📚 I'm currently doing of ADS college
 
 <div align="center">
