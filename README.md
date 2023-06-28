@@ -1,5 +1,6 @@
-Olá Mundo🌍, eu sou o João Vitor!
-- 📚 Estou cursando ADS
+Hello World🌍, I'm João Vitor!
+- 💻 I'm a programming student
+- 📚 I do ADS college
 
 <div align="center">
  <a href="https://github.com/joaovitoraq">
