@@ -11,7 +11,7 @@
 <div align="center">
  <a href="https://github.com/joaovitoraq">
  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=joaovitoraq&show_icons=true&theme=merko&include_all_commits=true&count_private=true" />
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitoraq&layout=compact&theme=merko" />
+ <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitoraq&layout=compact&theme=merko" />
 </div>
   
 <div style="display: inline_block"><br>
